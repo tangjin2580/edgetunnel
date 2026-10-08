@@ -1,8 +1,8 @@
-name = "v20251104"
+name = "bing"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+#id = "f9edb96949ec46cea594dd92d5be81a2"				#KV数据库id
